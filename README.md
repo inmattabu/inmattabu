@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Isaac
 <!--
 **inmattabu/inmattabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on AI Agents and AI Models
+- 🌱 I’m currently learning MCP Servers and Context
+- 👯 I’m looking to collaborate on AI Projects
+- 🤔 I’m looking for help with Agentic AI 
+- 💬 Ask me about Cyber Security and Project Management
+- 📫 How to reach me: email me at inmatta@bu.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like traveling
